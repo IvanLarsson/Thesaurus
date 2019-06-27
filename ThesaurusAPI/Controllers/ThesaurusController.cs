@@ -22,21 +22,18 @@ namespace ThesaurusAPI.Controllers
             //return new string[] { "value55", "value234" };
         }
 
-        // GET: api/Thesaurus/5
-        [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        // GET: api/Thesaurus/test
+        [HttpGet("{word}", Name = "Get")]
+        public string Get(string word)
         {
+            Console.WriteLine("vad e inc word: " + word);
             return service.getSynonyms("re");
         }
 
 
         // PUT: api/Thesaurus/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-            Console.WriteLine("vad e id: " + id);
-            Console.WriteLine("vad e value: " + value);
-        }
+        public void Put(int id, [FromBody] string value) => service.putWord(value);
 
     }
 }

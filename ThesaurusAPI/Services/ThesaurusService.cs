@@ -7,7 +7,7 @@ namespace ThesaurusAPI.Services
 {
     public class ThesaurusService 
     {
-        public void putWord()
+        public void putWord(string value)
         {
 
         }
