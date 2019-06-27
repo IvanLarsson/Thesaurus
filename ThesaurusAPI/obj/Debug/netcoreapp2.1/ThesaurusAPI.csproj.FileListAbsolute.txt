@@ -1,0 +1,14 @@
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\bin\Debug\netcoreapp2.1\ThesaurusAPI.deps.json
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\bin\Debug\netcoreapp2.1\ThesaurusAPI.runtimeconfig.json
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\bin\Debug\netcoreapp2.1\ThesaurusAPI.runtimeconfig.dev.json
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\bin\Debug\netcoreapp2.1\ThesaurusAPI.dll
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\bin\Debug\netcoreapp2.1\ThesaurusAPI.pdb
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.csprojAssemblyReference.cache
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.RazorAssemblyInfo.cache
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.RazorAssemblyInfo.cs
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.AssemblyInfoInputs.cache
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.AssemblyInfo.cs
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.dll
+C:\Users\ivan_\Documents\Visual Studio Projects\ThesaurusAPI\ThesaurusAPI\obj\Debug\netcoreapp2.1\ThesaurusAPI.pdb
